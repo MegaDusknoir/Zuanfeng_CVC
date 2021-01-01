@@ -1,0 +1,6 @@
+name=New Zuanfeng UTAU Database
+image=zuanfeng_plus.jpg
+author=–éŸà”V–é–‚
+sample=¤¨.wav
+
+Version:2.0b
