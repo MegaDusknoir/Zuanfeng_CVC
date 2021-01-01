@@ -21,3 +21,5 @@ _「大王叫我来巡山，小心提防孙悟空。」_
 **请勿用于商业用途**  
   
 作者：[夜游之夜魔](https://space.bilibili.com/3173802/)  
+  
+配布曲：[【巡山】山峦颂歌](https://www.bilibili.com/video/av10142478)  
